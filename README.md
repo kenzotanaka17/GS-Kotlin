@@ -17,6 +17,17 @@ activity_main.xml
 Instalação:
 
 Clone este repositório.
+
 Abra o projeto no Android Studio.
-Conecte um dispositivo Android ou inicie um emulador. 4.Compile e execute o aplicativo.
-Créditos: Nome do desenvolvedor principal Nome dos alunos envolvidos Instituição ou organização responsável pelo projeto
+
+Conecte um dispositivo Android ou inicie um emulador. 
+
+Compile e execute o aplicativo.
+
+Nome dos integrantes:
+
+André Kenzo RM94306
+
+Panays Figueiredo RM95736
+
+Pedro Antonio RM95929
